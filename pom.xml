@@ -13,7 +13,7 @@
 	<version>1.0-SNAPSHOT</version>
 	<packaging>adapter</packaging>
 	<name>SampleAppAdapter</name>
-        <!-- test comment-->
+        <!-- test comment mohan -->
 	<properties>
 		<!-- Use UTF-8 as the encoding of the adapter -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
