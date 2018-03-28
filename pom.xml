@@ -19,7 +19,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
 		<!-- MobileFirst adapter deployment properties -->
-		<mfpfUrl>http://yesbank-uk-server.eu-gb.mybluemix.net:80/mfpadmin</mfpfUrl>
+		<mfpfUrl>http://testbank.mfp-ha.mybluemix.net:80/mfpadmin</mfpfUrl>
 		<mfpfUser>admin</mfpfUser>
 		<mfpfPassword>yesbank</mfpfPassword>
 		<mfpfRuntime>mfp</mfpfRuntime>
